@@ -15,19 +15,9 @@ module.exports = {
   socialLinks: [
     
     {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/infgroup',
-    },
-    {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/infgroup',
-    },
-    {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:info0@infinitusgroup.com',
+      url: 'mailto:info@infinitusgroup.com',
     },
   ],
 };
