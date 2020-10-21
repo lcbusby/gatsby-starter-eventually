@@ -1,4 +1,4 @@
-import React from 'react';
+iimport React from 'react';
 
 import Layout from '../components/Layout';
 import Footer from '../components/Footer';
@@ -8,9 +8,9 @@ import SlideShow from '../components/SlideShow';
 
 var settings = {
   images: [
-    { url: require('../assets/images/bg01.jpg'), position: 'center' },
-    { url: require('../assets/images/bg02.jpg'), position: 'center' },
-    { url: require('../assets/images/bg03.jpg'), position: 'center' },
+    { url: require('../assets/images/meeting.png'), position: 'center' },
+    { url: require('../assets/images/social.jpg'), position: 'center' },
+    { url: require('../assets/images/slap.jpg'), position: 'center' },
   ],
   // Delay.
   delay: 6000,
